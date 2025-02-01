@@ -1,0 +1,21 @@
+```ini
+# Ignorar archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entornos virtuales
+venv/
+env/
+
+# Configuración local
+.env
+
+# Archivos de logs
+*.log
+logs/
+
+# Archivos de compilación
+*.sqlite3
+*.db
